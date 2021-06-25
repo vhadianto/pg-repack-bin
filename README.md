@@ -1,7 +1,9 @@
 # pg-repack-bin
 
 
-Pre-compiled binaries for pg_repack.
+[pg_repack](https://github.com/reorg/pg_repack) pre-compiled binaries.
+
+Use at your own risk.
 
 ## pg_repack 1.4.4
 
