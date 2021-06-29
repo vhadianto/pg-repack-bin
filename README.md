@@ -14,6 +14,8 @@ Direct link: https://github.com/vhadianto/pg-repack-bin/raw/main/linux-amd64/1.4
 
 ### Amazon Linux 2
 
+https://centos.pkgs.org/7/postgresql-11-x86_64/pg_repack11-1.4.4-1.rhel7.x86_64.rpm.html
+
 ```
 sudo amazon-linux-extras install epel
 
